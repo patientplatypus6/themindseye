@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1435ddbf4ec8e9b5","x":-282,"y":-244,"width":594,"height":539,"type":"link","url":"https://www.nasa.gov/feature/jpl/20-intriguing-exoplanets"},
+		{"id":"efac8cb0f699e882","x":-58,"y":-654,"width":250,"height":118,"type":"text","text":"Here are some resources on astronomy that help with factual data about planets.\n"}
+	],
+	"edges":[
+		{"id":"067d74ae07c70c4d","fromNode":"efac8cb0f699e882","fromSide":"bottom","toNode":"1435ddbf4ec8e9b5","toSide":"top"}
+	]
+}

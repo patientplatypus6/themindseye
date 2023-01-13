@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "a46cb6babd728cb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "05a3bf797af1711c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e031fcbed51d9285",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "The Mind's Eye Novel.canvas",
+                "viewState": {
+                  "x": -161,
+                  "y": 267,
+                  "zoom": -0.9194370278162773,
+                  "snapToGrid": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e70824565372d2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b551972fd329e1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55494c2b1bcea4dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ef3a8e92c49eb80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c787f85923f66e42",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99a0bab884d90f2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d31e14ccfb3efa02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51bbcaf7cc29aad5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Mind's Eye Novel.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e5444c7684150f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Mind's Eye Novel.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2bdbb14aa0deb50d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1323d533f39becf3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Mind's Eye Novel.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e031fcbed51d9285",
+  "lastOpenFiles": [
+    "The Sol Solar System.md",
+    "The Mind's Eye Novel.canvas",
+    "Online Writing Resources.canvas",
+    "Kepler-186f.md",
+    "Jump Gates.md",
+    "Helios Torq.md",
+    "The Mind's Eye.md",
+    "Untitled.md",
+    "Untitled 1.canvas",
+    "2023-01-13.md"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"987ad3c92a4868ae","x":-353,"y":-401,"width":618,"height":355,"type":"text","text":"------\n[[The Mind's Eye]]\n\n An experimental novel\n\t\n------\nThis story begins on [[The Sol Solar System#^80d451|Earth]]. The year is 2098, one year before the discovery of the first of the interstellar [[Jump Gates|\"gates\"]] that enable faster than light travel between the stars. It is a time for humanity on the cusp of a radical breakthrough in science, technology, and culture. Consider this the loading screen in a new video game, where what is at stake is the future. \n\nFirst, let's choose the main character.\n\n\n\n\n"},
+		{"id":"f8973834673cd9bc","x":-332,"y":66,"width":539,"height":447,"type":"text","text":"Here are the characters you can choose from - \n\nJack Burchis - a hardened ex-cop turned bounty hunter, he's long since retired. After one collar too many and a bum leg, he's headed off planet for a lighter gravity and some much needed R n' R. Or so he thinks. \n\nSamantha Jones - She's a pilot on an outbound frieghter between the Earth and the moon. It sounds glamorous, but flying a wheat freighter for the upteenth time can get a little boring. So she's taking her paycheck and she's looking for a bit of adventure. Little does she suspect...\n\nElix Trilig - An uplifted sentient collection of jelly fish created by a group of research scientists working on the surface of Io. His inscrutable purpose is known only to him/his/her/itself. But first, he has to find a way to escape the laboratory."},
+		{"id":"402172e70da3503d","x":-693,"y":609,"width":296,"height":155,"type":"text","text":"1."},
+		{"id":"c9d105936e6e733a","x":-310,"y":740,"width":373,"height":195,"type":"text","text":"2."},
+		{"id":"f28b924b66ab10bf","x":121,"y":621,"width":250,"height":60,"type":"text","text":"3."}
+	],
+	"edges":[
+		{"id":"631e28edcecf06b4","fromNode":"987ad3c92a4868ae","fromSide":"bottom","toNode":"f8973834673cd9bc","toSide":"top","label":"Who R U?"},
+		{"id":"6fe4994fb58b6753","fromNode":"f8973834673cd9bc","fromSide":"bottom","toNode":"402172e70da3503d","toSide":"top","label":"Jack Burchis"},
+		{"id":"5576c474c27f3b59","fromNode":"f8973834673cd9bc","fromSide":"bottom","toNode":"c9d105936e6e733a","toSide":"top","label":"Samantha Jones"},
+		{"id":"a74e3cebc056c1d1","fromNode":"f8973834673cd9bc","fromSide":"bottom","toNode":"f28b924b66ab10bf","toSide":"top","label":"Elix Trilig"}
+	]
+}
