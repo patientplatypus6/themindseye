@@ -11,12 +11,15 @@
             "id": "e031fcbed51d9285",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "The Mind's Eye Novel.canvas",
+                "viewState": {
+                  "x": -181,
+                  "y": 83.5,
+                  "zoom": -1.4954727133073242,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -49,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#technology/jumpgates/known/2107",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "The Mind's Eye Novel.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "The Mind's Eye Novel.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "The Mind's Eye Novel.canvas"
               }
             }
           }
@@ -147,17 +150,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55494c2b1bcea4dc",
+  "active": "e031fcbed51d9285",
   "lastOpenFiles": [
-    "The Mind's Eye Novel.canvas",
-    "The Sol Solar System.md",
-    "Online Writing Resources.canvas",
-    "Kepler-186f.md",
-    "Jump Gates.md",
     "Helios Torq.md",
+    "The Mind's Eye Novel.canvas",
+    "2023-01-13.md",
+    "Jump Gates.md",
+    "Online Writing Resources.canvas",
+    "The Sol Solar System.md",
     "Readme.md",
+    "Kepler-186f.md",
     "Untitled.md",
-    "Untitled 1.canvas",
-    "2023-01-13.md"
+    "Untitled 1.canvas"
   ]
 }
